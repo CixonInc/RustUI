@@ -1,0 +1,10 @@
+[package]
+name = "rustui"
+version = "0.0.0"
+edition = "2021"
+authors = ["RCW679"]
+description = "The new GUI framework, in Rust"
+repository = "https://github.com/CixonInc/RustUI"
+license = "MIT"
+
+[dependencies]
